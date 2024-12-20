@@ -1,0 +1,4 @@
+# Kombinasyon
+```
+kombinasyon hesaplayan kod
+```
